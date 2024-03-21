@@ -1,0 +1,76 @@
+﻿sno,sal,job,course,duration,institutes,eligibility
+1,4 LPA,Investment Banker,MBA,2 years,Indian Institute of Management (IIM) Ahmedabad,1. Bachelor’s degree in any discipline from a recognized university.
+,7.2 LPA,Project Planner,,,Indian Institute of Management (IIM) Bangalore,2. Minimum aggregate of 50% is required for general category candidates and 45% for other reserved categories.
+,5.7 LPA,Business Development Manager,,,Indian Institute of Management (IIM) Calcutta,3. Graduation final year candidates are also eligible for an MBA.
+,7 LPA,Marketing Manager,,,"Faculty of Management Studies (FMS), Delhi University, Delhi",4. Professional Degree holders such as CA/CS/CMA/ICWAI and others can also pursue an MBA. 
+,22 LPA,Management Consultant,,,"Jamnalal Bajaj Institute of Management Studies (JBIMS), Mumbai",
+2,6 LPA,Senior Engineer,Mtech,,Indian Institute of Technology (IIT) Bombay,1. BE/BTech degree from a recognized university.
+,3.5 LPA,Research Analyst,,,Indian Institute of Technology (IIT) Roorkee,2. Master’s degree in applied science is also eligible for an MTech Programme.
+,3 LPA,Mechanical Engineer,,,Indian Institute of Science (IISc) Bangalore,
+,4.8 LPA,Software Developer,,,Birla Institute of Technology and Science (BITS) Pilani,
+,4.2 LPA,Data Analyst,,,National Institute of Technology (NIT) Trichy,
+3,8.5 LPA,Talent Manager,PGDM,,"Indian Institute of Management (IIM), Ahmedabad",1. Undergraduate course in any discipline from a recognized institution are eligible for PGDM.
+,15 LPA,IT Project Manager,,,"Indian Institute of Management (IIM), Bangalore",2. Candidates must have secured a minimum aggregate of 50% in their bachelor’s degree.
+,17.7 LPA,Information Systems Manager,,,"Institute of Management Technology (IMT), Ghaziabad","3. Considerable knowledge of mathematics, English, and logical capability for entrance exam."
+,2.8 LPA,Marketing Executive,,,"Narsee Monjee Institute of Management Studies (NMIMS), Mumbai",
+,3.2 LPA,Finance Executive,,,"T. A. Pai Management Institute (TAPMI), Manipal",
+4,12.5 LPA,Finance Manager,MA / MSc Economics,2 years,"Delhi School of Economics, University of Delhi",1. Candidates with an undergraduate course in any discipline from any recognized university.
+,5 LPA,Credit Analyst,,,"Jawaharlal Nehru University, New Delhi", 2. Candidates with a minimum aggregate of 50% in their bachelor’s degree.
+,4 LPA,Statistician,,,"Madras School of Economics, Chennai",
+,4.6 LPA,Financial Analyst,,,"Gokhale Institute of Politics and Economics, Pune",
+,3.3 LPA,Market Research Analyst,,,"Centre for Economic Studies and Planning, Jawaharlal Nehru University, New Delhi",
+5,3.5 LPA,Content Analyst,MA / MSc Statistics / Mathematics,2 years (can vary with institutes),"Indian Statistical Institute (ISI), Kolkata","1. Candidates with graduation in Statistics, Mathematics, or equivalent discipline from a recognized university."
+,5 LPA,Statistical Analyst,,,"Banaras Hindu University (BHU), Varanasi",2. A minimum aggregate of 50% for the general category and 45% for the reserved category is required.
+,14 LPA,Economist,,,"Chennai Mathematical Institute (CMI), Chennai",3. Final year students
+,5.5 LPA,Risk Analyst,,,"Indian Institute of Technology (IIT), Delhi",
+,9 LPA,Mathematician,,,"Indian Institute of Science Education and Research (IISER), Pune",
+6,10 LPA,Database Manager,MCA / MSc Computer Science,2 years,"1. Indian Institute of Technology (IIT), Delhi",1. Candidates with graduation in BSc Honours or BCA or any equivalent discipline from a recognized institution.
+,3.2 LPA,Hardware Engineer,,,"2. Indian Institute of Technology (IIT), Roorkee",2. BSc general students
+,4 LPA,Software Programmer,,,"3. Indian Institute of Technology (IIT), Kanpur",3. Merit and entrance exam-based admission
+,5.7 LPA,Technical Writer,,,"4. Birla Institute of Technology and Science (BITS), Pilani",
+,3.6 LPA,Troubleshooter,,,"5. Delhi University, Delhi",
+7,3.6 LPA,SEO Specialist ,Digital Marketing,6-12 months,"1. Symbiosis Institute of Business Management (SIBM), Pune",1. Candidates with bachelor’s degree in any discipline from a recognized university.
+,3.3 LPA,Web Analyst,,,"2. Amity University, Noida",2. Candidates with minimum aggregate of 50% in their graduation.
+,6.5 LPA,Digital Marketing Manager,,,"3. Manipal Institute of Technology (MIT), Manipal.",3. Final year students who have appeared for their examinations.
+,4.5 LPA,Social Media Marketer,,,,
+,10.8 LPA,Brand & Marketing Manager,,,,
+8,2.4 LPA,Hotel Manager,PGD Hotel Management,1-2 years,"1. Christ University, Bangalore",1. Graduates in any discipline through a recognized board.
+,4.2 LPA,Restaurant Manager,,,2. Institute of Hotel Management (IHM) Hyderabad,2. Passing entrance exams
+,6 LPA,Sommelier,,,3. Institute of Hotel Management (IHM) Delhi,
+,3.8 LPA,Event Manager,,,4. Institute of Hotel Management (IHM) Bangalore,
+,8.4 LPA,Executive Chef,,,5. Institute of Hotel Management (IHM) Chennai,
+9,5 LPA,Senior Associate,PGP – Business Accounting & Taxation,4 months,"1. Indian School of Business (ISB), Hyderabad",1. Candidates from bachelor’s degree from commerce background are eligible for this course.
+,16 LPA,Senior Manager,,,"2. Indian Institute of Management (IIM), Ahmedabad",2. Freshers or candidates with a job experience of fewer than 2 years are preferred for this course.
+,3.3 LPA,Accounts & Finance Executive,,,"3. SP Jain Institute of Management and Research (SPJIMR), Mumbai",
+,25 LPA,Deputy General Manager,,,"4. Symbiosis Institute of Business Management (SIBM), Pune",
+,2.6 LPA,Lecturer,,,"5. Institute of Management Technology (IMT), Ghaziabad",
+10,2.2 LPA,Account Assistant,Tally,1-3 months,1. Tally Education Pvt. Ltd.,1. Candidates completed their 10+2 examinations in any stream from any recognized board.
+,1.5 LPA,Tally Operator,,,2. National Institute of Electronics and Information Technology (NIELIT),2.Commerce stream students are preferred.
+,1.8 LPA,Data Entry Operator,,,3. Aptech Computer Education,3. Candidates must possess a basic knowledge of business management and accounting.
+,2.8 LPA,Account Executive,,,,4. Graduated Candidates
+,2.2 LPA,Accounts Clerk,,,,
+11,7 LPA,Bank Manager,M.com,2 years,"1. Shri Ram College of Commerce (SRCC), Delhi","1. Candidates from BCom or BCom Honours, or any equivalent discipline from a recognized university."
+,2.7 LPA,Auditor,,,"2. Loyola College, Chennai",2. Candidates must have minimum aggregate of 50% (45% for reserved category) in graduation.
+,5 LPA,Security Analyst,,,"3. St. Xavier’s College, Kolkata","3. Economics Honours, BBA, BFIA, and BBE graduates."
+,3.2 LPA,Finance Executive,,,"4. Hindu College, Delhi",
+,4.8 LPA,Tax Consultant,,,"5. Hansraj College, Delhi",
+12,15 LPA,Machine Learning Scientist,Machine Learning,6-18 months,"1. Delhi Technological University (DTU), Delhi",1. Candidates who completed bachelor’s in Artificial Intelligence or any equivalent discipline from a recognized institution.
+,4.8 LPA,Software Developer,,,"2. International Institute of Information Technology (IIIT), Hyderabad","2. Entrance exams like GATE, SUAT, IIT-JEE, AND UPSEE have to be cleared."
+,6 LPA,Business Intelligence Developer,,,"3. Birla Institute of Technology and Science (BITS), Pilani",
+,10 LPA,Data Scientist,,,"4. Indian Institute of Technology (IIT), Kanpur",
+,6.9 LPA,Computer vision engineer,,,"5. Indian Institute of Technology (IIT), Roorkee",
+13,5.5 LPA,App Developer,Mobile App Development,6-12 months,"1. Manipal Institute of Technology, Manipal",1. Candidates with a bachelor’s degree in a related discipline from a recognized university.
+,5.5 LPA,Software Engineer,,,"2. Birla Institute of Technology and Science (BITS), Pilani",2. Candidates clearing common entrance test.
+,13 LPA,Project Leader,,,"3. PSG College of Technology, Coimbatore",
+,4.4 LPA,Mobile Application Developer,,,"4. Delhi Technological University (DTU), Delhi",
+,6 LPA,Freelance Software Developer,,,"5. Symbiosis Institute of Computer Studies and Research (SICSR), Pune",
+14,3 LPA,Financial Assistant,Finance & Accounts,1 year,"1. Indian School of Business (ISB), Hyderabad",1. Candidates with bachelor’s degree in the equivalent discipline from a recognized university.
+,9.5 LPA,Business Consultant,,,"2. Xavier School of Management (XLRI), Jamshedpur",2. Candidates with minimum aggregate percentage stated by their respective institutes.
+,3.4 LPA,Tax Accountant,,,"3. National Institute of Securities Markets (NISM), Mumbai",3.Institute entrance exams.
+,1.9 LPA,Billing Clerk,,,"4. Faculty of Management Studies (FMS), University of Delhi",
+,5.3 LPA,Compliance Analyst,,,"5. Department of Management Studies (DMS), Indian Institute of Technology (IIT) Delhi",
+15,2.1 LPA,Reporter,Mass Communication,3 years,"1. Indian Institute of Mass Communication, Delhi",1. Candidates with bachelor’s degree in any stream from a recognized university.
+,3.3 LPA,Screen Writer,,,"2. Symbiosis Institute of Media and Communication, Pune",2. A minimum aggregate of 50% is required in graduation.
+,5 LPA,Film Director,,,"3. Xavier Institute of Communication, Mumbai",
+,4.4 LPA,Fashion Photographer,,,"4. AJK Mass Communication Research Centre, Jamia Millia Islamia, Delhi",
+,3.2 LPA,Radio Jockey,,,"5. Amity School of Communication, Noida",

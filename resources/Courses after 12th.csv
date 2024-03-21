@@ -1,0 +1,25 @@
+﻿sno,domain,coursename,duration,eligibility,description
+1,Science,B.Tech/B.E.,4 years,10+2 with PCM,Undergraduate engineering degree with various specializations.
+2,Science,B.Sc. (Bachelor of Science),3 years,10+2 with PCM/B,Bachelor's degree in Science with various specializations.
+3,Science,MBBS/BDS,5.5 years,10+2 with PCB,Undergraduate medical degree.
+4,Science,B.Pharmacy,4 years,10+2 with PCM/BPC,Undergraduate degree in pharmacy.
+5,Science,BCA (Bachelor of Computer Applications),3 years,10+2 with Mathematics,Undergraduate degree in computer applications.
+6,Commerce,B.Com (Bachelor of Commerce),3 years,10+2 with Commerce,Undergraduate degree in commerce with various specializations.
+7,Commerce,BBA (Bachelor of Business Administration),3 years,10+2 with Any Stream,Undergraduate degree in business administration.
+8,Commerce,CA (Chartered Accountancy),Varies,10+2 with Commerce,Professional accounting qualification.
+9,Commerce,CS (Company Secretary),Varies,10+2 with Commerce,Professional qualification for corporate governance.
+10,Arts,B.A. (Bachelor of Arts),3 years,10+2 with Any Stream,Undergraduate degree in arts with various specializations.
+11,Arts,B.A. (Hons.),3 years,10+2 with Any Stream,Undergraduate honors degree in arts with specialization.
+12,Arts,BSW (Bachelor of Social Work),3 years,10+2 with Any Stream,Undergraduate degree in social work.
+13,Arts,B.A. LLB (Bachelor of Arts and Bachelor of Laws),5 years,10+2 with Any Stream,Integrated undergraduate degree in arts and law.
+14,Interdisciplinary,B.Design (Bachelor of Design),4 years,10+2 with Any Stream,Undergraduate degree in design with specializations.
+15,Interdisciplinary,B.Arch (Bachelor of Architecture),5 years,10+2 with PCM,Undergraduate degree in architecture.
+16,Interdisciplinary,B.Sc. Nursing (Bachelor of Science in Nursing),4 years,10+2 with PCB,Undergraduate degree in nursing.
+17,Interdisciplinary,BJMC (Bachelor of Journalism and Mass Comm.),3 years,10+2 with Any Stream,Undergraduate degree in journalism and mass communication.
+18,Interdisciplinary,BHM (Bachelor of Hotel Management),4 years,10+2 with Any Stream,Undergraduate degree in hotel management.
+19,Interdisciplinary,B.Sc. IT (Bachelor of Science in Information Tech.),3 years,10+2 with Mathematics,Undergraduate degree in information technology.
+20,Interdisciplinary,B.Com (Hons.),3 years,10+2 with Commerce,Undergraduate honors degree in commerce with specialization.
+21,Interdisciplinary,Animation and Multimedia Courses,Varies,10+2 with Any Stream,Various diploma and degree courses in animation and multimedia.
+22,Interdisciplinary,Law Courses (LLB),Varies,10+2 with Any Stream,Various law courses including LLB.
+23,Interdisciplinary,Hotel Management Courses,Varies,10+2 with Any Stream,Various diploma and degree courses in hotel management.
+24,Interdisciplinary,Fine Arts Courses,Varies,10+2 with Any Stream,Various diploma and degree courses in fine arts.
